@@ -1,0 +1,14 @@
+Each square = 100x100Km
+Eastings + Northings of major grid squares in m
+
+NC = 200000 E, 900000 N
+NG = 100000 E, 800000 N
+NH = 200000 E, 800000 N
+NJ = 300000 E, 800000 N
+NM = 100000 E, 700000 N
+NN = 200000 E, 700000 N
+NO = 300000 E, 700000 N
+
+   NC
+NG NH NJ
+NM NN NO
